@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m py_compile python/sglang/srt/layers/rotary_embedding/telechat3_scaling_rope.py python/sglang/srt/layers/rotary_embedding/__init__.py python/sglang/srt/layers/rotary_embedding/factory.py python/sglang/srt/layers/rotary_embedding/yarn.py)"
+    ]
+  }
+}
